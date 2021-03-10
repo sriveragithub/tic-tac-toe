@@ -1,9 +1,10 @@
 # tic-tac-toe
 
+Netlify Link: https://focused-elion-2e95ba.netlify.app/
+
 Created by Jelissa, Alex and Skyler
 
-https://github.com/jelissa2007
-https://github.com/sriveragithub
+https://github.com/jelissa2007 - https://github.com/sriveragithub
 
 Functionality includes:
 1. 2-player Tic-tac-toe game with a board created with nested for loops
